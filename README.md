@@ -12,21 +12,7 @@ Feel free to email me at hrshdeep51@gmail.com if you're looking for advice with 
 
 ##### Teaching Experience
 
-I've spent multiple semesters having pivotal roles teaching various introductory computer science resources at UIUC like 
-
-* [CS 125](https://cs125.cs.illinois.edu/) -  Introduction to Computer Science 
-* [CS 199: IKP](https://kotlin.cs.illinois.edu/) - Intro to Kotlin Programming
-* [CS 199: EMP](https://cs199emp.netlify.app/) - Even More Programming
-
-where I
-* led 150+ course staff in CS 125  
-* developed distributed grading infrastructure protoypes
-* made thousands of forum replies
-* hosted multiple sessions a week
-* international timezone support 
-* pretesting problems before release
-
-
+I've spent multiple semesters having pivotal roles teaching various introductory computer science resources at UIUC like [CS 125](https://cs125.cs.illinois.edu/) -  Introduction to Computer Science, [CS 199: IKP](https://kotlin.cs.illinois.edu/) - Intro to Kotlin Programming, and [CS 199: EMP](https://cs199emp.netlify.app/) - Even More Programming.
 
 <!--
 **harsh183/harsh183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
