@@ -4,7 +4,7 @@ I'm a student at [UIUC](https://cs.illinois.edu/) studying [Statistcs and Comput
 
 ##### Hire 
 
-I'm looking for Software Engineering Opportunities after I graduate in **May 2022**. Feel free to message me via email at hrshdeep51@gmail.com or via [LinkedIn](https://www.linkedin.com/in/harsh183/).
+I'm looking for Software Engineering Opportunities after I graduate in **May 2022**. Feel free to message me via email at hrshdeep51@gmail.com or via [LinkedIn](https://www.linkedin.com/in/harsh183/). I'm interested in Full Stack Web Development and Data Science roles as well as anything leaning towards Automation. I also have past relevant experience in HCI and Accessibility.
 
 ##### Mentor/Advice
 
@@ -12,7 +12,7 @@ Feel free to email me at hrshdeep51@gmail.com if you're looking for advice with 
 
 ##### Teaching Experience
 
-I've spent multiple semesters having pivotal roles teaching various introductory computer science resources at UIUC like [CS 125](https://cs125.cs.illinois.edu/) -  Introduction to Computer Science, [CS 199: IKP](https://kotlin.cs.illinois.edu/) - Intro to Kotlin Programming, and [CS 199: EMP](https://cs199emp.netlify.app/) - Even More Programming.
+I've spent multiple semesters having pivotal roles teaching various introductory computer science resources at UIUC like [CS 125](https://cs125.cs.illinois.edu/) -  Introduction to Computer Science, [CS 199: IKP](https://kotlin.cs.illinois.edu/) - Intro to Kotlin Programming, and [CS 199: EMP](https://cs199emp.netlify.app/) - Even More Programming. This summer I'm leading a series of workshops and guided projects with [CS 125 - Summer of Side Projects](125summer.tech/).
 
 <!--
 **harsh183/harsh183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
