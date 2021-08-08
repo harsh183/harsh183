@@ -4,7 +4,7 @@ I'm a student at [UIUC](https://cs.illinois.edu/) studying [Statistcs and Comput
 
 ##### Hire 
 
-I'm looking for Software Engineering Opportunities after I graduate in **May 2022**. Feel free to message me via email at hrshdeep51@gmail.com or via [LinkedIn](https://www.linkedin.com/in/harsh183/). I'm interested in Full Stack Web Development and Data Science roles as well as anything leaning towards Automation. I also have past relevant experience in HCI and Accessibility.
+I'm looking for Software Engineering Opportunities after I graduate in **May 2022**. Feel free to message me via email at harsh.deep.3984@gmail.com or via [LinkedIn](https://www.linkedin.com/in/harsh183/). I'm interested in Full Stack Web Development and Data Science roles as well as anything leaning towards Automation. I also have past relevant experience in HCI and Accessibility.
 
 ##### Mentor/Advice
 
