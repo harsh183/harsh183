@@ -8,7 +8,7 @@ I'm looking for Software Engineering Opportunities after I graduate in **May 202
 
 ##### Mentor/Advice
 
-Feel free to email me at hrshdeep51@gmail.com if you're looking for advice with getting started with software, navigating higher education in the US or anything else you think I can help with. I'm very happy to talk to people and help them out.
+Feel free to email me if you're looking for advice with getting started with software, navigating higher education in the US or anything else you think I can help with. I'm very happy to talk to people and help them out.
 
 ##### Teaching Experience
 
