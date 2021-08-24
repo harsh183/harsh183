@@ -12,7 +12,7 @@ Feel free to email me if you're looking for advice with getting started with sof
 
 ##### Teaching Experience
 
-I've spent multiple semesters having pivotal roles teaching various introductory computer science resources at UIUC like [CS 125](https://cs125.cs.illinois.edu/) -  Introduction to Computer Science, [CS 199: IKP](https://kotlin.cs.illinois.edu/) - Intro to Kotlin Programming, and [CS 199: EMP](https://cs199emp.netlify.app/) - Even More Programming. This summer I'm leading a series of workshops and guided projects with [CS 125 - Summer of Side Projects](125summer.tech/).
+I've spent multiple semesters having pivotal roles teaching various introductory computer science resources at UIUC like [CS 125](https://cs125.cs.illinois.edu/) -  Introduction to Computer Science, [CS 199: IKP](https://kotlin.cs.illinois.edu/) - Intro to Kotlin Programming, and [CS 199: EMP](https://cs199emp.netlify.app/) - Even More Programming. Last summer I led a series of workshops and guided projects with [CS 125 - Summer of Side Projects](125summer.tech/).
 
 <!--
 **harsh183/harsh183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
