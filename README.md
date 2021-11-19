@@ -2,10 +2,6 @@
 
 I'm a student at [UIUC](https://cs.illinois.edu/) studying [Statistcs and Computer Science](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-statistics-computer-science). I like full stack web development, human computer interaction, gaze based interaction, teaching programming, distributed systems, and making my work available to the public.
 
-##### Hire 
-
-I'm looking for Software Engineering Opportunities after I graduate in **May 2022**. Feel free to message me via email at harsh.deep.3984@gmail.com or via [LinkedIn](https://www.linkedin.com/in/harsh183/). I'm interested in Full Stack Web Development and Data Science/Machine Learning roles as well as anything leaning towards Automation. I also have past relevant experience in Backend Development and Accessibility.
-
 ##### Mentor/Advice
 
 Feel free to email me if you're looking for advice with getting started with software, navigating higher education in the US or anything else you think I can help with. I'm very happy to talk to people and help them out.
