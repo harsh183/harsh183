@@ -14,4 +14,4 @@ I've spent multiple semesters having pivotal roles teaching various introductory
 * [CS 199: EMP](https://cs199emp.netlify.app/) - Even More Practice (Java)
 * [CS 225](https://courses.engr.illinois.edu/cs225/sp2022/) -  Introduction to Data Structures and Algorithms with C++ 
 * [CS 277](https://courses.grainger.illinois.edu/cs277/fa2021/) -  Algorithms and Data Structures for Data Science (Python)
-* [CS 125 - Summer of Side Projects](125summer.tech/) - Summer 2021 I led a series of workshops and guided projects with Python and Discord with over 65+ projects by 40+ participants. (Python, JavaScript)
+* [Summer of Side Projects](125summer.tech/) - Summer 2021 I led a series of workshops and guided projects with Python and Discord with over 65+ projects by 40+ participants. (Python, JavaScript)
