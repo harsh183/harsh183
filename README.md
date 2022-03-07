@@ -1,6 +1,6 @@
 ### Henlo
 
-I'm a student at [UIUC](https://cs.illinois.edu/) studying [Statistcs and Computer Science](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-statistics-computer-science). I like full stack web development, human computer interaction, gaze based interaction, teaching programming, distributed systems, and making my work available to the public. I'm starting out as a Software Engineer at [Modern Treasury](https://www.moderntreasury.com/) soon!
+I'm a student at [UIUC](https://cs.illinois.edu/) studying [Statistics & Computer Science](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-statistics-computer-science). I like full stack web development, human computer interaction, gaze based interaction, teaching programming, distributed systems, and making my work available to the public. I'm starting out as a Software Engineer at [Modern Treasury](https://www.moderntreasury.com/) soon!
 
 ##### Mentor/Advice
 
