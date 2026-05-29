@@ -1,10 +1,14 @@
 ### Henlo
 
-I'm a Software Engineer at [Modern Treasury](https://www.moderntreasury.com/) where I'm working on the Banks Send team to streamline how we move money internationally! I graduated from [UIUC](https://cs.illinois.edu/) where I studied [Statistics & Computer Science](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-statistics-computer-science). I like full stack web development, human computer interaction, gaze based interaction, teaching programming, distributed systems, and making my work available to the public. 
+[harsh183.com](https://harsh183.com/) - Check out my website and my [writing](https://harsh183.com/writing)
+
+I'm a Software Engineer at [Modern Treasury](https://www.moderntreasury.com/) where I'm working on the Banks Send team to streamline how we move money all over the world! I love making cool applications available on the web, teaching programming, distributed systems, human computer interaction (HCI), gaze based interaction, and making my work available to the public. 
+
+I graduated from [UIUC](https://cs.illinois.edu/) where I studied [Statistics & Computer Science](https://cs.illinois.edu/academics/undergraduate/degree-program-options/bs-statistics-computer-science).
 
 ##### Mentor/Advice
 
-Feel free to email me if you're looking for advice with getting started with software, navigating higher education in the US or anything else you think I can help with. I'm very happy to talk to people and help them out.
+Feel free to email me if you're looking for advice with getting started with software, navigating higher education in the US, or anything else you think I can help with. I'm very happy to talk to people and help them out.
 
 ##### Teaching Experience
 
